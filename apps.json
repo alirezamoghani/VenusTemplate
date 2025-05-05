@@ -7,7 +7,7 @@
         "logo": "https://iili.io/27zFlFj.png",
         "pricing": 0,
         "currency": "",
-        "downloadLink": "https://github.com/hiddify/HiddifyNG/releases/latest",
+        "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Android-universal.apk",
         "deepLink": "hiddify://import/{url}#{name}",
         "tutorialLink": ""
     },
